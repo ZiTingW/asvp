@@ -1,3 +1,4 @@
+#active fine-tuning code from https://github.com/yichen928/ActiveFT
 
 import os
 import numpy as np
