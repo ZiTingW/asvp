@@ -1,6 +1,5 @@
 # Feature Alignment: Rethinking Efficient Active Learning via Proxy in the Context of Pre-trained Models
-
-Accept by TMLR, https://openreview.net/forum?id=PNcgJMJcdl
+# Accept by TMLR, https://openreview.net/forum?id=PNcgJMJcdl
 
 Official code implementation for efficient active learning method, ASVP.
 
